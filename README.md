@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChloeSAPage
 - 👀 I’m interested in Microbiology and of course coding!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript!
 
 <!---
 ChloeSAPage/ChloeSAPage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
