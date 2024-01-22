@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChloeSAPage
+- 👋 Hi, I’m Chloe!
 - 👀 I’m interested in Microbiology and of course coding!
 - 🌱 I’m currently learning Python, C, HTML, CSS and JavaScript!
 
