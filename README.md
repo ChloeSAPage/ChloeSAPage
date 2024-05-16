@@ -2,7 +2,7 @@
 I’m a Microbiologist turned developer and I like making things.
 
 
-# Tech Stack
+## Tech Stack
 <!---
 Icons from https://devicon.dev/
 --->
