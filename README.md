@@ -7,7 +7,7 @@ I’m a Microbiologist turned developer and I like making things.
 Badges from https://envoy-vc.github.io/awesome-badges/
 --->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chloesapage)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloesapage)
 
 ## Tech Stack
 <!---
