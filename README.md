@@ -37,9 +37,6 @@ Icons from https://devicon.dev/
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ## Currently Learning
 
