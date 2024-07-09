@@ -4,6 +4,20 @@ I’m a Microbiologist turned developer. I like making things.
 <br>
 I am a [TechNative Academy](https://www.linkedin.com/company/technativedigital/) and [CodeFirstGirls](https://codefirstgirls.com/courses/cfgdegree/) graduate! I completed the CFG Degree in Software with 94% overall! 
 
+## Projects
+
+### Poro Dress Up
+
+Cute website using JavaScript, HTML, CSS. Created as part of the CFG Degree. Scored 100%. 
+[View here](https://chloesapage.github.io/Poro-Dress-Up/).
+[View code here](https://github.com/ChloeSAPage/Poro-Dress-Up).
+
+### Dog Spot
+
+A group full stack project created as part of the CFG Degree. Delivered to a deadline. I was responsible for testing and implementing Yelp API integration and using Flask/Jinja2 to render information dynamically from the requests. Scored 84%.
+
+[View code here](https://github.com/ChloeSAPage/DogSpot).
+
 
 ## Find me
 
