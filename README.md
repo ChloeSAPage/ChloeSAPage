@@ -15,7 +15,7 @@ Cute website using JavaScript, HTML, CSS. Created as part of the CFG Degree. Sco
 
 ### Dog Spot
 
-A group full stack project created as part of the CFG Degree. Delivered to a deadline. I was responsible for testing and implementing Yelp API integration and using Flask/Jinja2 to render information dynamically from the requests. Scored 84%.
+A group full stack project created as part of the CFG Degree. Delivered to a deadline. I was responsible for testing and implementing Yelp API integration and using Flask/Jinja to render information dynamically from the requests. Scored 84%.
 
 [View code here](https://github.com/ChloeSAPage/DogSpot).
 
