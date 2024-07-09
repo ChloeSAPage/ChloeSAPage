@@ -1,7 +1,8 @@
 # Hiya! I’m Chloe! 👋
 
 I’m a Microbiologist turned developer. I like making things.
-Currently, I'm completing [TechNative Digital's](https://www.linkedin.com/company/technativedigital/) intensive 16 week 9-5 bootcamp in web development, alongside [CodeFirstGirls'](https://codefirstgirls.com/courses/cfgdegree/) Degree in Software.
+<br>
+I am a [TechNative Academy](https://www.linkedin.com/company/technativedigital/) and [CodeFirstGirls](https://codefirstgirls.com/courses/cfgdegree/) graduate! I completed the CFG Degree in Software with 94% overall! 
 
 
 ## Find me
