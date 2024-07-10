@@ -8,14 +8,14 @@ I am a [TechNative Academy](https://www.linkedin.com/company/technativedigital/)
 
 ### Poro Dress Up
 
-Cute website using JavaScript, HTML, CSS. Created as part of the CFG Degree. Scored 100%. 
+Cute website using JavaScript, HTML, CSS. Created as part of the CFG Degree. Scored *100%*. 
 
 [View here](https://chloesapage.github.io/Poro-Dress-Up/).
 [View code here](https://github.com/ChloeSAPage/Poro-Dress-Up).
 
 ### Dog Spot
 
-A group full stack project created as part of the CFG Degree. Delivered to a deadline. I was responsible for testing and implementing Yelp API integration and using Flask/Jinja to render information dynamically from the requests. Scored 84%.
+A group full stack project created as part of the CFG Degree. Delivered to a deadline. I was responsible for testing and implementing Yelp API integration and using Flask/Jinja to render information dynamically from the requests. Scored *84%*.
 
 [View code here](https://github.com/ChloeSAPage/DogSpot).
 
