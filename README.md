@@ -2,7 +2,7 @@
 
 I’m a Microbiologist turned developer. I like making things.
 <br>
-I am a [TechNative Academy](https://www.linkedin.com/company/technativedigital/) and [CodeFirstGirls](https://codefirstgirls.com/courses/cfgdegree/) graduate! I completed the CFG Degree in Software with 94% overall! 
+I am a [TechNative Academy](https://www.linkedin.com/company/technativedigital/) and [CodeFirstGirls](https://codefirstgirls.com/courses/cfgdegree/) graduate! I completed the CFG Degree in Software with *94%* overall! 
 
 ## Projects
 
