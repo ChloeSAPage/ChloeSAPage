@@ -6,12 +6,17 @@ I am a [TechNative Academy](https://www.linkedin.com/company/technativedigital/)
 
 ## Projects
 
+### Recipe2Shop
+A WIP full-stack meal planning, recipe storage website. See the README for the roadmap.
+[View code here](https://github.com/ChloeSAPage/Recipe2Shop).
+[View here](https://recipe2shop.chloesapage.dev/)
+
 ### Poro Dress Up
 
 Cute website using JavaScript, HTML, CSS. Created as part of the CFG Degree. Scored *100%*. 
 
-[View here](https://chloesapage.github.io/Poro-Dress-Up/).
 [View code here](https://github.com/ChloeSAPage/Poro-Dress-Up).
+[View here](https://chloesapage.github.io/Poro-Dress-Up/).
 
 ### Dog Spot
 
